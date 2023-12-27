@@ -1,4 +1,4 @@
-### Opa, fala ae 
+### Opa, fala ai
 
 - 😄 Pronomes: Ele/Dele 
 - 🌱 Estudando C++
